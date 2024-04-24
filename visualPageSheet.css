@@ -12,6 +12,11 @@ html {
     font-family: Helvetica;
 }
 
+.content-1 {
+    display: flex;   
+    justify-content: space-between;
+}
+
 .navbar {
     list-style-type: none;
     position: fixed;
